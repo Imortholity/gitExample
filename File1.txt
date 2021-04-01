@@ -1,8 +1,0 @@
-123
-testcommit
-456
-789.
-Add Line
-Old line
-Some text
-Deleted line
